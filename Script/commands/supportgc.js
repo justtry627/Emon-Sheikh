@@ -1,7 +1,7 @@
 module.exports.config = {
  name: "supportgc",
  version: "1.1",
- credits: "—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+ credits: "—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
  cooldowns: 5,
  hasPermission: 0,
  description: "Join the official support group chat",
